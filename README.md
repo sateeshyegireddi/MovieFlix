@@ -1,6 +1,6 @@
 ### MovieFlix
 
-Objective:
+# Objective:
 Build an app that calls  the The Movie DB API to showpopular movies list and movie details.
 Resources:
 
@@ -17,6 +17,7 @@ When a movie is tapped, navigate to a detail view of a move and show bigger imag
 * Budget
 
 ### Bonus:
+
 Using pagination to get and display the movie list.
-Note:- API key can be created here
+*Note: API key can be created here
 https://www.themoviedb.org/settings/api
