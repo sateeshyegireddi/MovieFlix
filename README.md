@@ -1,6 +1,6 @@
-### MovieFlix
+# MovieFlix
 
-# Objective:
+### Objective:
 Build an app that calls  the The Movie DB API to showpopular movies list and movie details.
 Resources:
 
