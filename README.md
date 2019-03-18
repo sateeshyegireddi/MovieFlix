@@ -19,5 +19,5 @@ When a movie is tapped, navigate to a detail view of a move and show bigger imag
 ### Bonus:
 
 Using pagination to get and display the movie list.
-*Note: API key can be created here
+#### Note: API key can be created here
 https://www.themoviedb.org/settings/api
